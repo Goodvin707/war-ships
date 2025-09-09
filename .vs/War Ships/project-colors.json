@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "feedb0b8-925d-45b5-9ea2-f2bce0c3ab2b": {
+      "ProjectGuid": "feedb0b8-925d-45b5-9ea2-f2bce0c3ab2b",
+      "DisplayName": "War Ships",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
